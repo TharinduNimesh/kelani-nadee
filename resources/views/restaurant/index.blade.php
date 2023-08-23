@@ -150,28 +150,24 @@
                     <div class="col-lg-4">
                         <div class="box" data-aos="zoom-in" data-aos-delay="100">
                             <span>01</span>
-                            <h4>Lorem Ipsum</h4>
-                            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero
-                                placeat</p>
+                            <h4>Exquisite Culinary Delights</h4>
+                            <p>Our chefs craft unparalleled gastronomic experiences. Every dish, a masterpiece. Local and global flavors converge on our diverse menu.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 mt-4 mt-lg-0">
                         <div class="box" data-aos="zoom-in" data-aos-delay="200">
                             <span>02</span>
-                            <h4>Repellat Nihil</h4>
-                            <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire
-                                leno para
-                                dest</p>
+                            <h4>Inviting Ambiance</h4>
+                            <p>Comfort meets style. Our cozy ambiance suits any occasion—romantic or social. A backdrop for memorable moments.</p>
                         </div>
                     </div>
 
                     <div class="col-lg-4 mt-4 mt-lg-0">
                         <div class="box" data-aos="zoom-in" data-aos-delay="300">
                             <span>03</span>
-                            <h4> Ad ad velit qui</h4>
-                            <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam
-                                quis</p>
+                            <h4>Exceptional service</h4>
+                            <p>Your satisfaction is our priority. Attentive staff, seamless dining. Personalized care for an unforgettable visit.</p>
                         </div>
                     </div>
 
