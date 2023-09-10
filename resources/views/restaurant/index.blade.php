@@ -119,10 +119,10 @@
                         <h3>
                             Crafting memorable moments with flavors, warmth,
                             and impeccable service. Your culinary journey
-                            starts here at Beer Front.
+                            starts here at Mr.Kottu Grand.
                         </h3>
                         <p class="fst-italic">
-                            Welcome to Beer Front, where culinary excellence
+                            Welcome to Mr.Kottu Grand, where culinary excellence
                             meets a vibrant ambiance. With 15 years of
                             unwavering dedication to the art of dining, we
                             have established ourselves as a premier
