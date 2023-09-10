@@ -5,12 +5,12 @@
     <meta charset="utf-8" />
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
-    <title>Beer Front | Kelani Nadee</title>
+    <title>Mr.Kottu Grand</title>
     <meta content="" name="description" />
     <meta content="" name="keywords" />
 
     <!-- Favicons -->
-    <link href="#" rel="icon" />
+    <link href="/img/restaurant/Mr.kottu.png" rel="icon" />
     <link href="#" rel="apple-touch-icon" />
 
     <!-- Google Fonts -->
@@ -36,7 +36,7 @@
     <div id="topbar" class="d-flex align-items-center fixed-top">
         <div class="container d-flex justify-content-center justify-content-md-between">
             <div class="contact-info d-flex align-items-center">
-                <i class="bi bi-phone d-flex align-items-center"><span>+94 77 677 0962</span></i>
+                <i class="bi bi-phone d-flex align-items-center"><span>+94 xxxxxxx</span></i>
                 <i class="bi bi-clock d-flex align-items-center ms-4"><span> Mon-Sat: 11AM - 11PM</span></i>
             </div>
         </div>
@@ -46,7 +46,7 @@
     <header id="header" class="fixed-top d-flex align-items-cente">
         <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
             <h1 class="logo me-auto me-lg-0">
-                <a href="index.html">Beer Front</a>
+                <a href="index.html">Mr.Kottu Grand</a>
             </h1>
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
@@ -88,7 +88,7 @@
         <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
             <div class="row">
                 <div class="col-lg-8">
-                    <h1>Welcome to <span>Beer Front</span></h1>
+                    <h1>Welcome to <span>Mr.Kottu Grand</span></h1>
                     <h2>Delivering great food for more than 10 years!</h2>
 
                     <div class="btns">
@@ -112,7 +112,7 @@
                 <div class="row">
                     <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
                         <div class="about-img">
-                            <img src="/img/restaurant/about.jpg" alt="" />
+                            <img src="/img/about.jpg" alt="" />
                         </div>
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
@@ -766,7 +766,8 @@
                             <div class="testimonial-item">
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Beer Front is a culinary gem! The flavors in every dish are a journey of delight.
+                                    Mr.Kottu Grand is a culinary gem! The flavors in every dish are a journey of
+                                    delight.
                                     The cozy ambiance and attentive service make it a top-notch dining experience.
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
@@ -798,7 +799,7 @@
                             <div class="testimonial-item">
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Beer Front never disappoints. The food is a symphony of flavors, and the staff's
+                                    Mr.Kottu Grand never disappoints. The food is a symphony of flavors, and the staff's
                                     knowledge and recommendations add a personal touch. An absolute favorite!
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
@@ -814,7 +815,8 @@
                             <div class="testimonial-item">
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    Exquisite! Beer Front stands out with its innovative dishes and inviting decor. The
+                                    Exquisite! Mr.Kottu Grand stands out with its innovative dishes and inviting decor.
+                                    The
                                     staff's dedication to making you feel special amplifies the entire experience.
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                                 </p>
@@ -830,7 +832,7 @@
                             <div class="testimonial-item">
                                 <p>
                                     <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                                    A culinary masterpiece! Beer Front's commitment to flavors is commendable. The
+                                    A culinary masterpiece! Mr.Kottu Grand commitment to flavors is commendable. The
                                     ambiance feels like a second home, and their service is exceptional. A true
                                     treasure!
                                     <i class="bx bxs-quote-alt-right quote-icon-right"></i>
@@ -863,7 +865,7 @@
                             <img src="/img/chefs/chefs-1.jpg" class="img-fluid" alt="" />
                             <div class="member-info">
                                 <div class="member-info-content">
-                                    <h4>Walter White</h4>
+                                    <h4>Sahan</h4>
                                     <span>Owner</span>
                                 </div>
                                 <div class="social">
@@ -881,7 +883,7 @@
                             <img src="/img/chefs/chefs-2.jpg" class="img-fluid" alt="" />
                             <div class="member-info">
                                 <div class="member-info-content">
-                                    <h4>Sarah Jhonson</h4>
+                                    <h4>perera</h4>
                                     <span>Manager</span>
                                 </div>
                                 <div class="social">
@@ -899,7 +901,7 @@
                             <img src="/img/chefs/chefs-3.jpg" class="img-fluid" alt="" />
                             <div class="member-info">
                                 <div class="member-info-content">
-                                    <h4>William Anderson</h4>
+                                    <h4>nimal</h4>
                                     <span>Master Chef</span>
                                 </div>
                                 <div class="social">
@@ -1006,8 +1008,7 @@
 
             <div data-aos="fade-up">
                 <iframe style="border: 0; width: 100%; height: 350px; filter: invert(90%);"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.5821078582576!2d79.97760721081916!3d6.940442818148272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae257bf551eb7d7%3A0x2e3ec70591a93853!2sKelani%20Nadee%20Beer%20Front%20Family%20Restaurant!5e0!3m2!1sen!2slk!4v1692802471157!5m2!1sen!2slk"
-                    frameborder="0" allowfullscreen></iframe>
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.1325384827564!2d79.89627497478676!3d6.874719218982717!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae25b1916a118f9%3A0xaa15b95e372d26f6!2sMr.%20Kottu%20Grand%20-Nugegoda!5e0!3m2!1sen!2slk!4v1694362650842!5m2!1sen!2slk"></iframe>
             </div>
 
             <div class="container" data-aos="fade-up">
@@ -1032,13 +1033,13 @@
                             <div class="email">
                                 <i class="bi bi-envelope"></i>
                                 <h4>Email:</h4>
-                                <p>beerfront2020@gmail.com</p>
+                                <p>info@gmail.com</p>
                             </div>
 
                             <div class="phone">
                                 <i class="bi bi-phone"></i>
                                 <h4>Call:</h4>
-                                <p>+94 77 677 0962</p>
+                                <p>+94 xxxxxxx</p>
                             </div>
                         </div>
                     </div>
@@ -1092,9 +1093,9 @@
                             <p>
                                 54/G, Colombo Road, Biyagama<br />
                                 Sri Lanka<br /><br />
-                                <strong>Phone:</strong>+94 77 677 0962<br />
+                                <strong>Phone:</strong>+94 xxxxxxxx<br />
                                 <strong>Email:</strong>
-                                beerfront2020@gmail.com<br />
+                                info@gmail.com<br />
                             </p>
                             <div class="social-links mt-3">
                                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -1174,7 +1175,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong><span>Beer Front | Restaurant</span></strong>. All Rights Reserved
+                &copy; Copyright <strong><span>Mr.Kottu Grand</span></strong>. All Rights Reserved
             </div>
             <div class="credits">
                 Designed by <a href="https://eversoft.cf/">Eversoft IT Solutions</a>
